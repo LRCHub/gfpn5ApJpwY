@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "一線",
+  "base_artist": "JUJU",
+  "createdAt": "2026-03-08T12:11:37.404680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一線",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/01_一線_JUJU.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トラック06 一線、越えちゃおっか♪な騎乗位ケダモノオホ声セックス",
+      "artist": "とろとろすたじお",
+      "has_synced": true,
+      "path": "select/02_トラック06_一線、越えちゃおっか♪な騎乗位ケダモノオホ声セックス_とろとろすたじお.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一線",
+      "artist": "林一峰",
+      "has_synced": false,
+      "path": "select/03_一線_林一峰.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一線",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_一線_JUJU.txt"
+    }
+  ]
+}
